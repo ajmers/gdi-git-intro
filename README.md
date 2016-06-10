@@ -1,37 +1,32 @@
-> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below.
-
-# Add Your Course Title Here
-
-Slides and materials are hosted at [http://example.com/](http://example.com/).
+# Intro to Git and Github
 
 ## Course description
 
-Use this space for a short description of your course. We recommend using the description from your meetup event.
+Ever make changes that broke your code and forgot how your code worked before? Want to work with someone on a code project, but aren't sure who has the latest version of a particular file? Version control can solve these problems and more!
 
-**Cost:** 
+Git is a popular version control application that can track your code changes and make it easier to collaboration on a project. Win win! This session will introduce the basics of version control, how to use Git to keep track of your changes to a project, and how to use GitHub (a hosting service) to collaborate with other developers.
 
-**Dates:** 
+We will start the class by setting up your GitHub account and configuring git on your machine. We will then go through a lecture and exercises to help you get started with Git and GitHub!
 
-**Location:** 
+**Cost:**
+
+$30 per person.
+
+**Dates:**
+
+June 14, 2016
+6:15 pm to 9:00 pm
+
+PromptWorks
+1211 Chestnut St Suite 400, Philadelphia, PA
+
+**Location:**
 
 A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
 
-
 ### Prerequisites:
 
-List any prerequisites for this class, including any previous classes or the equivalent self-study or real-world skills.
-
-You should have:
-
-(a) taken Intro or Intermediate HTML/CSS through Girl Develop It, or
-
-(b) built and managed websites on your own,
-
-**And also:**
-
-(a) taken intro to JavaScript through Girl Develop It, or
-
-(b) be familiar with syntax, arrays, conditionals, for and while loops, event handling, jQuery, AJAX requests, and handling JSON responses.
+This class will not use actual code when committing to a GitHub repository, so no need to worry about knowing a particular programming language. A willingness to use the command line is necessary; we will be changing directories, listing directory contents, and using git from the command line throughout the class (what's the command line? Or take a class). You should bring your own computer to class (or let us know if you need to borrow one) and have administrative privileges for installing software. Also, don't forget to bring a power supply.
 
 
 ### Tech requirements:
@@ -43,7 +38,9 @@ You should have:
 
 ### Topics covered:
 
- - The topics you plan to cover
- - Written in list form
- - Here's another one
+This workshop will cover:
 
+ - the basic concepts of version control
+ - git commands to track changes to a small project
+ - how to use GitHub
+ - the basics of collaborating on projects with other developers
