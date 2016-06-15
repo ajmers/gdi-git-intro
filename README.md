@@ -1,3 +1,4 @@
+Change made by Emma
 # Intro to Git and Github
 
 ## Course description
