@@ -10,7 +10,7 @@ We will start the class by setting up your GitHub account and configuring git on
 
 **Cost:**
 
-$30 per person.
+$35 per person.
 
 **Dates:**
 
