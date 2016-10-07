@@ -1,4 +1,3 @@
-Change made by Emma
 # Intro to Git and Github
 
 ## Course description
@@ -8,22 +7,6 @@ Ever make changes that broke your code and forgot how your code worked before? W
 Git is a popular version control application that can track your code changes and make it easier to collaboration on a project. Win win! This session will introduce the basics of version control, how to use Git to keep track of your changes to a project, and how to use GitHub (a hosting service) to collaborate with other developers.
 
 We will start the class by setting up your GitHub account and configuring git on your machine. We will then go through a lecture and exercises to help you get started with Git and GitHub!
-
-**Cost:**
-
-$30 per person.
-
-**Dates:**
-
-June 14, 2016
-6:15 pm to 9:00 pm
-
-PromptWorks
-1211 Chestnut St Suite 400, Philadelphia, PA
-
-**Location:**
-
-A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
 
 ### Prerequisites:
 
