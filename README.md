@@ -8,22 +8,6 @@ Git is a popular version control application that can track your code changes an
 
 We will start the class by setting up your GitHub account and configuring git on your machine. We will then go through a lecture and exercises to help you get started with Git and GitHub!
 
-**Cost:**
-
-$30 per person.
-
-**Dates:**
-
-June 14, 2016
-6:15 pm to 9:00 pm
-
-PromptWorks
-1211 Chestnut St Suite 400, Philadelphia, PA
-
-**Location:**
-
-A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
-
 ### Prerequisites:
 
 This class will not use actual code when committing to a GitHub repository, so no need to worry about knowing a particular programming language. A willingness to use the command line is necessary; we will be changing directories, listing directory contents, and using git from the command line throughout the class (what's the command line? Or take a class). You should bring your own computer to class (or let us know if you need to borrow one) and have administrative privileges for installing software. Also, don't forget to bring a power supply.
