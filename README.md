@@ -4,6 +4,8 @@ changes to GDI README file < marycos
 # Intro to Git and Github
 # Changes to the slide deck read me file (Angela @scooterphoenix)
 
+change elizabeth hall comment!! :)
+
 ## Course description
 
 Ever had a kitten delete your work when they slept on your keyboard?
