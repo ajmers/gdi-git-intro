@@ -1,3 +1,6 @@
+changing the file: sam
+
+
 # Intro to Git and Github
 
 ## Course description
