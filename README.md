@@ -1,4 +1,5 @@
 changes to gdi-git-intro
+changes to GDI README file < marycos
 
 # Intro to Git and Github
 # Changes to the slide deck read me file (Angela @scooterphoenix)
@@ -6,6 +7,11 @@ changes to gdi-git-intro
 ## Course description
 
 Ever had a kitten delete your work when they slept on your keyboard?
+
+
+Hello World
+We are adding more words this file.
+Woo
 
 Ever make changes that broke your code and forgot how your code worked before? Want to work with someone on a code project, but aren't sure who has the latest version of a particular file? Version control can solve these problems and more!
 
