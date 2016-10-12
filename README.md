@@ -1,3 +1,4 @@
+Not gitting this fast enough, but I'll keep trying!
 # Intro to Git and Github
 
 ## Course description
