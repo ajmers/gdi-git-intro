@@ -1,3 +1,5 @@
+changes to gdi-git-intro
+
 # Intro to Git and Github
 
 ## Course description
