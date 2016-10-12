@@ -1,3 +1,5 @@
+This was great! Thank you!
+
 # Intro to Git and Github
 
 ## Course description
