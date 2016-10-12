@@ -1,6 +1,7 @@
 changes to gdi-git-intro
 
 # Intro to Git and Github
+# Changes to the slide deck read me file (Angela @scooterphoenix)
 
 ## Course description
 
