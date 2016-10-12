@@ -1,3 +1,5 @@
+changes to GDI README file
+
 # Intro to Git and Github
 
 ## Course description
