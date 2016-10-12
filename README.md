@@ -1,6 +1,8 @@
 changes to gdi-git-intro
 changes to GDI README file < marycos
 
+This was great! Thank you! < seraab
+
 # Intro to Git and Github
 # Changes to the slide deck read me file (Angela @scooterphoenix)
 
