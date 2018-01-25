@@ -28,3 +28,7 @@ This workshop will cover:
  - git commands to track changes to a small project
  - how to use GitHub
  - the basics of collaborating on projects with other developers
+
+ ### Extra curriculars
+
+ Use Git!
