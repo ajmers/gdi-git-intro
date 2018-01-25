@@ -2,7 +2,7 @@
 
 ## Course description
 
-Ever make changes that broke your code and forgot how your code worked before? Want to work with someone on a code project, but aren't sure who has the latest version of a particular file? Version control can solve these problems and more!
+Hello from Sue. Ever make changes that broke your code and forgot how your code worked before? Want to work with someone on a code project, but aren't sure who has the latest version of a particular file? Version control can solve these problems and more!
 
 Git is a popular version control application that can track your code changes and make it easier to collaboration on a project. Win win! This session will introduce the basics of version control, how to use Git to keep track of your changes to a project, and how to use GitHub (a hosting service) to collaborate with other developers.
 
